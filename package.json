@@ -12,7 +12,7 @@
     "ag-grid-community": "^21.2.1",
     "ag-grid-react": "^21.2.1",
     "atob": "^2.1.2",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "blob": "0.0.5",
     "bluebird": "^3.5.5",
     "body-parser": "^1.19.0",
